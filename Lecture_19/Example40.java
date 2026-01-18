@@ -1,5 +1,5 @@
-package nptelJava.Lecture_19;
-import nptelJava.lecture_14.*;
+package Lecture_19;
+import lecture_14.*;
 
 public class Example40 {
     public static void main(String[] args) {
