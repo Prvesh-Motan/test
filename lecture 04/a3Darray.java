@@ -1,3 +1,4 @@
+
 class a3Darray {
     public static void main(String arg[]) {
         int my3Darray[][][] = new int[3][4][5];

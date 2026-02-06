@@ -1,9 +1,7 @@
-package Lecture_20;
-
-import Lecture_20.*;
+package Lecture_20.myPackage;
 
 public class Circle extends Geometry {
-    public double r;
+    private double r;
 
     public Circle() {
         r = 1.0;
@@ -13,15 +11,13 @@ public class Circle extends Geometry {
         this.r = r;
     }
 
+    @Override
     public double area() {
         return PI * r * r;
     }
 
+    @Override
     public double circumference() {
         return 2 * PI * r;
-    }
-
-    public double getRadius() {
-        return r;
     }
 }

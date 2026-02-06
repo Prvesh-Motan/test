@@ -1,4 +1,4 @@
-package Lecture_20;
+package Lecture_20.myPackage;
 
 public class Ellipse extends Geometry {
     protected double a,b;
