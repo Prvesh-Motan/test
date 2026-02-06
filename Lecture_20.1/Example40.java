@@ -1,7 +1,7 @@
-import Lecture_20.myPackage.Circle;
-import Lecture_20.myPackage.Ellipse;
+import Lecture_20.Circle;
+import Lecture_20.hello.Ellipse;
 import Lecture_20.myPackage.Geometry;
-import Lecture_20.myPackage.Rectangle;
+import Lecture_20.hello.Rectangle;
 
 
 public class Example40 {

@@ -1,6 +1,6 @@
-package Lecture_20.myPackage;
+package Lecture_20.hello;
 
-public abstract class Geometry {
+public abstract class Geometryx {
     public static final double PI = 3.141;
 
     public abstract double area();

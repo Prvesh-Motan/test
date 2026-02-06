@@ -1,6 +1,6 @@
-package Lecture_20.myPackage;
+package Lecture_20.hello;
 
-public class Ellipse extends Geometry {
+public class Ellipse extends Geometryx {
     protected double a,b;
     public Ellipse()
     {

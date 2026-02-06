@@ -1,4 +1,4 @@
-package Lecture_20.myPackage;
+package Lecture_20.hello;
 
 public class Rectangle extends Geometry {
     protected double l, w;
